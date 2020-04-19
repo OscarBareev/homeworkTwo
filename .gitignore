@@ -1,4 +1,5 @@
 Thumbs.db
 .DS_Store
 tmp/
-hello.txt
+*_old
+*_backup
